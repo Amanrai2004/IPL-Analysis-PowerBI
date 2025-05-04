@@ -4,19 +4,19 @@ Welcome to the IPL Analysis project! In this project, we analyze Indian Premier 
 
 ### 📊 Dashboard Previews
 
-#### Screenshot 1
+### Screenshot 1
 ![Dashboard Screenshot 1](./Screenshot%202025-05-04%20115922.png)
 
-#### Screenshot 2
+### Screenshot 2
 ![Dashboard Screenshot 2](./Screenshot%202025-05-04%20115935.png)
 
-#### Screenshot 3
+### Screenshot 3
 ![Dashboard Screenshot 3](./Screenshot%202025-05-04%20115946.png)
 
-#### Screenshot 4
+### Screenshot 4
 ![Dashboard Screenshot 4](./Screenshot%202025-05-04%20120001.png)
 
-#### Screenshot 5
+### Screenshot 5
 ![Dashboard Screenshot 5](./Screenshot%202025-05-04%20120019.png)
 
 
