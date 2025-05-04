@@ -2,8 +2,23 @@
 # Ipl-Analysis-project using PowerBI
 Welcome to the IPL Analysis project! In this project, we analyze Indian Premier League (IPL) data to uncover key trends and patterns. We use Power BI for data transformation, cleaning, and visualization, providing interactive dashboards and insights to support strategic business decisions.
 
+### 📊 Dashboard Previews
 
-![Dashboard Preview](./Screenshot%202025-05-04%20115922.png)
+#### Screenshot 1
+![Dashboard Screenshot 1](./Screenshot%202025-05-04%20115922.png)
+
+#### Screenshot 2
+![Dashboard Screenshot 2](./Screenshot%202025-05-04%20115935.png)
+
+#### Screenshot 3
+![Dashboard Screenshot 3](./Screenshot%202025-05-04%20115946.png)
+
+#### Screenshot 4
+![Dashboard Screenshot 4](./Screenshot%202025-05-04%20120001.png)
+
+#### Screenshot 5
+![Dashboard Screenshot 5](./Screenshot%202025-05-04%20120019.png)
+
 
 
 ## Project Overview
